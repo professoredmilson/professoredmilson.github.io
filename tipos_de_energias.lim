@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.5">
+    <config>
+        <idioma>4</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <titulo>Energia</titulo>
+        <subtitulo>Tipos de energias</subtitulo>
+        <autor>Edmilson Severino de Souza</autor>
+        <logo>EDUCRACIAICO.png</logo>
+        <imaxefondo posx="192" posy="152" trans="100">EDUCRACIA.png</imaxefondo>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >Parabéns!!!</correcto>
+        <incorrecto son="" modo="1" >Enganou-se!  Tente novamente!</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>14</tipo>
+              <cabeceira>fdffdfdsf erere</cabeceira>
+              <peza imaxe="EDUCRACIAICO.png" texto="imagem" son="">EDUCRACIAICO.png</peza>
+              <peza imaxe="EDUCRACIA.png" texto="icone" son="">EDUCRACIA.png</peza>
+              <cfondo>8FA8FC</cfondo>
+        </paxina>
+        <paxina id="2" >
+              <tipo>13</tipo>
+              <unir texto="AAAAAAAAAAAA">a</unir>
+              <unir texto="BBBBBBBBBBBBB">b</unir>
+              <unir texto="CCCCCCCCCCC">c</unir>
+              <unir texto="DDDDDDDDDDD">D</unir>
+              <unir texto="EEEEEEEEEEEE">e</unir>
+        </paxina>
+        <paxina id="3" >
+              <tipo>50</tipo>
+              <peza imaxe="EDUCRACIAICO.png"  son="">dededede</peza>
+              <peza imaxe="EDUCRACIA.png"  son="">dddddddd</peza>
+        </paxina>
+    </libro>
+</lim>
